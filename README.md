@@ -2,9 +2,15 @@
 
 # PRN: 25070123146
 
-Experiment 19 Aim: To study real-world and advanced interactive data visualization techniques using Python.
+# Experiment 19
 
-Theory: Plotly: A Python library used to create interactive and dynamic visualizations with zooming, hovering, and animation features.
+## Aim:
+
+To study real-world and advanced interactive data visualization techniques using Python.
+
+## Theory:
+
+Plotly: A Python library used to create interactive and dynamic visualizations with zooming, hovering, and animation features.
 
 Treemap: A visualization used to represent hierarchical data using nested rectangles where size indicates value.
 
@@ -54,4 +60,6 @@ theta: Represents categories or variables arranged around the circular axis.
 
 fill='toself': Used to fill the area inside the radar chart for better visualization.
 
-Conclusion: This experiment helped in understanding advanced and real-world visualization techniques such as treemap, dendrogram, Sankey diagram, and radar chart. It improved the ability to represent complex data structures and relationships effectively using interactive tools like Plotly.
+## Conclusion:
+
+This experiment helped in understanding advanced and real-world visualization techniques such as treemap, dendrogram, Sankey diagram, and radar chart. It improved the ability to represent complex data structures and relationships effectively using interactive tools like Plotly.
